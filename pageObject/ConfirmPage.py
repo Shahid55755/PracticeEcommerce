@@ -17,6 +17,7 @@ class ConfirmPage:
         return self.driver.find_element(*ConfirmPage.purchase)
 
     def book_order(self):
+        print("testing")
         return self.driver.find_element(*ConfirmPage.bookOrder)
 
     def suc_message(self):
