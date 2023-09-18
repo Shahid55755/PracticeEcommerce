@@ -14,6 +14,7 @@ class ConfirmPage:
         return self.driver.find_element(*ConfirmPage.termAndCond)
 
     def purchase_option(self):
+        print("testing change for github")
         return self.driver.find_element(*ConfirmPage.purchase)
 
     def book_order(self):
