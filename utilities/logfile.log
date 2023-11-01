@@ -672,3 +672,1117 @@ Success! The Form has been submitted successfully!.
 2023-09-16 09:42:54,667 :WARNING : test_newuser :Warning during the program 'Name'
 2023-09-16 09:42:54,667 :WARNING : test_newuser :Warning during the program 'Name'
 2023-09-16 09:42:54,667 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:34:51,350 :INFO : test_e2e :Clicking the shop button
+2023-09-18 11:34:52,773 :INFO : test_e2e :Shop button is pressed
+2023-09-18 11:34:52,788 :INFO : test_e2e :form is scrolled
+2023-09-18 11:34:52,870 :INFO : test_e2e :Added to cart
+2023-09-18 11:34:53,318 :INFO : test_e2e :Checkout
+2023-09-18 11:34:53,562 :INFO : test_e2e :Checkout confirm button  is pressed
+2023-09-18 11:34:53,574 :INFO : test_e2e :assert current URL after checkout
+2023-09-18 11:34:53,836 :INFO : test_e2e :Country is selected
+2023-09-18 11:34:58,991 :INFO : test_e2e :Wait for some time to select country
+2023-09-18 11:34:59,108 :INFO : test_e2e :Term and condition is checked
+2023-09-18 11:34:59,239 :INFO : test_e2e :Purchase option is clicked
+2023-09-18 11:34:59,266 :INFO : test_e2e :Order is booked
+2023-09-18 11:34:59,393 :INFO : test_e2e :Success message is displayed×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-18 11:35:03,455 :INFO : test_register :Firstname is : shahidali
+2023-09-18 11:35:03,694 :INFO : test_register :Email is : shahd.bit@y.com
+2023-09-18 11:35:04,349 :INFO : test_register :DOB is : 01/02/2023
+2023-09-18 11:35:04,795 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:07,384 :INFO : test_register :Firstname is : sadiq
+2023-09-18 11:35:07,384 :INFO : test_register :Firstname is : sadiq
+2023-09-18 11:35:07,627 :INFO : test_register :Email is : sadiq.bit@y.com
+2023-09-18 11:35:07,627 :INFO : test_register :Email is : sadiq.bit@y.com
+2023-09-18 11:35:08,514 :INFO : test_register :DOB is : 01/02/2023
+2023-09-18 11:35:08,514 :INFO : test_register :DOB is : 01/02/2023
+2023-09-18 11:35:08,701 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:08,701 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:11,134 :INFO : test_register :Firstname is : shahidali
+2023-09-18 11:35:11,134 :INFO : test_register :Firstname is : shahidali
+2023-09-18 11:35:11,134 :INFO : test_register :Firstname is : shahidali
+2023-09-18 11:35:11,332 :INFO : test_register :Email is : shahd.bit@y.com
+2023-09-18 11:35:11,332 :INFO : test_register :Email is : shahd.bit@y.com
+2023-09-18 11:35:11,332 :INFO : test_register :Email is : shahd.bit@y.com
+2023-09-18 11:35:12,071 :INFO : test_register :DOB is : 01/02/2023
+2023-09-18 11:35:12,071 :INFO : test_register :DOB is : 01/02/2023
+2023-09-18 11:35:12,071 :INFO : test_register :DOB is : 01/02/2023
+2023-09-18 11:35:12,262 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:12,262 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:12,262 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:18,067 :INFO : test_newuser :Firstname is : shahid
+2023-09-18 11:35:18,256 :INFO : test_newuser :Email is : shahid.ali@gmail.com
+2023-09-18 11:35:18,841 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:19,241 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:21,714 :INFO : test_newuser :Firstname is : hamid
+2023-09-18 11:35:21,714 :INFO : test_newuser :Firstname is : hamid
+2023-09-18 11:35:21,995 :INFO : test_newuser :Email is : hamid@t.com
+2023-09-18 11:35:21,995 :INFO : test_newuser :Email is : hamid@t.com
+2023-09-18 11:35:22,726 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:22,726 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:22,998 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:22,998 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:25,527 :INFO : test_newuser :Firstname is : sadiq
+2023-09-18 11:35:25,527 :INFO : test_newuser :Firstname is : sadiq
+2023-09-18 11:35:25,527 :INFO : test_newuser :Firstname is : sadiq
+2023-09-18 11:35:25,705 :INFO : test_newuser :Email is : sadiq@t.com
+2023-09-18 11:35:25,705 :INFO : test_newuser :Email is : sadiq@t.com
+2023-09-18 11:35:25,705 :INFO : test_newuser :Email is : sadiq@t.com
+2023-09-18 11:35:26,470 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:26,470 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:26,470 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:26,675 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:26,675 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:26,675 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:29,101 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:29,101 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:29,101 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:29,101 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:29,241 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:29,241 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:29,241 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:29,241 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:29,820 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:29,820 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:29,820 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:29,820 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:30,016 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:30,016 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:30,016 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:30,016 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:32,429 :INFO : test_newuser :Firstname is : saddam
+2023-09-18 11:35:32,429 :INFO : test_newuser :Firstname is : saddam
+2023-09-18 11:35:32,429 :INFO : test_newuser :Firstname is : saddam
+2023-09-18 11:35:32,429 :INFO : test_newuser :Firstname is : saddam
+2023-09-18 11:35:32,429 :INFO : test_newuser :Firstname is : saddam
+2023-09-18 11:35:32,603 :INFO : test_newuser :Email is : saddam@y.com
+2023-09-18 11:35:32,603 :INFO : test_newuser :Email is : saddam@y.com
+2023-09-18 11:35:32,603 :INFO : test_newuser :Email is : saddam@y.com
+2023-09-18 11:35:32,603 :INFO : test_newuser :Email is : saddam@y.com
+2023-09-18 11:35:32,603 :INFO : test_newuser :Email is : saddam@y.com
+2023-09-18 11:35:33,188 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:33,188 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:33,188 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:33,188 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:33,188 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:33,371 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:33,371 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:33,371 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:33,371 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:33,371 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:35,781 :INFO : test_newuser :Firstname is : bilal
+2023-09-18 11:35:35,781 :INFO : test_newuser :Firstname is : bilal
+2023-09-18 11:35:35,781 :INFO : test_newuser :Firstname is : bilal
+2023-09-18 11:35:35,781 :INFO : test_newuser :Firstname is : bilal
+2023-09-18 11:35:35,781 :INFO : test_newuser :Firstname is : bilal
+2023-09-18 11:35:35,781 :INFO : test_newuser :Firstname is : bilal
+2023-09-18 11:35:35,939 :INFO : test_newuser :Email is : bilal@g.com
+2023-09-18 11:35:35,939 :INFO : test_newuser :Email is : bilal@g.com
+2023-09-18 11:35:35,939 :INFO : test_newuser :Email is : bilal@g.com
+2023-09-18 11:35:35,939 :INFO : test_newuser :Email is : bilal@g.com
+2023-09-18 11:35:35,939 :INFO : test_newuser :Email is : bilal@g.com
+2023-09-18 11:35:35,939 :INFO : test_newuser :Email is : bilal@g.com
+2023-09-18 11:35:36,526 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:36,526 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:36,526 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:36,526 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:36,526 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:36,526 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:36,707 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:36,707 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:36,707 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:36,707 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:36,707 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:36,707 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:39,174 :INFO : test_newuser :Firstname is : pretty
+2023-09-18 11:35:39,174 :INFO : test_newuser :Firstname is : pretty
+2023-09-18 11:35:39,174 :INFO : test_newuser :Firstname is : pretty
+2023-09-18 11:35:39,174 :INFO : test_newuser :Firstname is : pretty
+2023-09-18 11:35:39,174 :INFO : test_newuser :Firstname is : pretty
+2023-09-18 11:35:39,174 :INFO : test_newuser :Firstname is : pretty
+2023-09-18 11:35:39,174 :INFO : test_newuser :Firstname is : pretty
+2023-09-18 11:35:39,355 :INFO : test_newuser :Email is : pretty@k.com
+2023-09-18 11:35:39,355 :INFO : test_newuser :Email is : pretty@k.com
+2023-09-18 11:35:39,355 :INFO : test_newuser :Email is : pretty@k.com
+2023-09-18 11:35:39,355 :INFO : test_newuser :Email is : pretty@k.com
+2023-09-18 11:35:39,355 :INFO : test_newuser :Email is : pretty@k.com
+2023-09-18 11:35:39,355 :INFO : test_newuser :Email is : pretty@k.com
+2023-09-18 11:35:39,355 :INFO : test_newuser :Email is : pretty@k.com
+2023-09-18 11:35:39,925 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:39,925 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:39,925 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:39,925 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:39,925 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:39,925 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:39,925 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:40,097 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:40,097 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:40,097 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:40,097 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:40,097 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:40,097 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:40,097 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,995 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,996 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:45,997 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,056 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,057 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,058 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,137 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,138 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,139 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,369 :INFO : test_newuser :Firstname is : zohaikd
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:46,571 :INFO : test_newuser :Email is : zohaid
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,373 :INFO : test_newuser :DOB is : "10/10/2023"
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:47,782 :INFO : test_newuser :×
+Success! The Form has been submitted successfully!.
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,172 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,173 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,174 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,233 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,235 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,236 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :ERROR : test_newuser :error during the action 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,293 :CRITICAL : test_newuser :Critical error 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-09-18 11:35:50,296 :WARNING : test_newuser :Warning during the program 'Name'
+2023-11-01 23:27:05,036 :INFO : test_e2e :Clicking the shop button
+2023-11-01 23:27:06,308 :INFO : test_e2e :Shop button is pressed
+2023-11-01 23:27:06,331 :INFO : test_e2e :form is scrolled
+2023-11-01 23:27:06,383 :INFO : test_e2e :Added to cart
+2023-11-01 23:27:07,083 :INFO : test_e2e :Checkout
+2023-11-01 23:27:07,603 :INFO : test_e2e :Checkout confirm button  is pressed
+2023-11-01 23:27:07,619 :INFO : test_e2e :assert current URL after checkout
+2023-11-01 23:27:08,026 :INFO : test_e2e :Country is selected
+2023-11-01 23:30:01,430 :INFO : test_register :Firstname is : shahidali
+2023-11-01 23:30:01,633 :INFO : test_register :Email is : shahd.bit@y.com
+2023-11-01 23:30:02,467 :INFO : test_register :DOB is : 01/02/2023
+2023-11-01 23:30:03,057 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-11-01 23:30:05,594 :INFO : test_register :Firstname is : sadiq
+2023-11-01 23:30:05,594 :INFO : test_register :Firstname is : sadiq
+2023-11-01 23:30:05,927 :INFO : test_register :Email is : sadiq.bit@y.com
+2023-11-01 23:30:05,927 :INFO : test_register :Email is : sadiq.bit@y.com
+2023-11-01 23:30:06,659 :INFO : test_register :DOB is : 01/02/2023
+2023-11-01 23:30:06,659 :INFO : test_register :DOB is : 01/02/2023
+2023-11-01 23:30:06,868 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-11-01 23:30:06,868 :INFO : test_register :×
+Success! The Form has been submitted successfully!.
+2023-11-01 23:30:08,886 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,886 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,909 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,909 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,909 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,909 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,909 :ERROR : test_register :error during the action Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,910 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,910 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,910 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,910 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,910 :CRITICAL : test_register :Critical error Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,911 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,911 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,911 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,911 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
+2023-11-01 23:30:08,911 :WARNING : test_register :Warning during the program Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Stacktrace:
+	GetHandleVerifier [0x00007FF638398EF2+54786]
+	(No symbol) [0x00007FF638305612]
+	(No symbol) [0x00007FF6381BA64B]
+	(No symbol) [0x00007FF63819A9F5]
+	(No symbol) [0x00007FF638220887]
+	(No symbol) [0x00007FF6382343CF]
+	(No symbol) [0x00007FF63821BC43]
+	(No symbol) [0x00007FF6381F0941]
+	(No symbol) [0x00007FF6381F1B84]
+	GetHandleVerifier [0x00007FF6386E7F52+3524194]
+	GetHandleVerifier [0x00007FF63873D800+3874576]
+	GetHandleVerifier [0x00007FF638735D7F+3843215]
+	GetHandleVerifier [0x00007FF638435086+694166]
+	(No symbol) [0x00007FF638310A88]
+	(No symbol) [0x00007FF63830CA94]
+	(No symbol) [0x00007FF63830CBC2]
+	(No symbol) [0x00007FF6382FCC83]
+	BaseThreadInitThunk [0x00007FFB8BBC257D+29]
+	RtlUserThreadStart [0x00007FFB8D6EAA78+40]
+
